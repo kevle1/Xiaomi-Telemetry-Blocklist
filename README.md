@@ -1,4 +1,4 @@
-# XiaomiSpywareBlockList
+# Xiaomi Spyware BlockList
 Blocklist to add to PiHole - Blocks outgoing Xiaomi "Spyware" communications 
 
 add to Blocklist by doing: 
