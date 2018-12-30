@@ -5,4 +5,4 @@ add to PiHole blocklists by using URL below:
 
 `wget https://raw.githubusercontent.com/kevle2/XiaomiSpywareBlockList/master/xiaomiblock.txt`
 
-Any issues please let me know.
+Any issues please let me know. 
