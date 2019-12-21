@@ -1,8 +1,6 @@
 # Xiaomi Spyware BlockList
 Blocks outgoing Xiaomi Telemetry 
 
-add to PiHole blocklists by using URL below: 
+add to PiHole blocklists by using URL: 
 
-`wget https://raw.githubusercontent.com/kevle2/XiaomiSpywareBlockList/master/xiaomiblock.txt`
-
-Any issues please let me know. 
+`https://raw.githubusercontent.com/kevle2/XiaomiSpywareBlockList/master/xiaomiblock.txt`
