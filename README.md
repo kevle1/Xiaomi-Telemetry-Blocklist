@@ -1,5 +1,5 @@
 # Xiaomi Spyware BlockList
-Blocklist to add to PiHole - Blocks outgoing Xiaomi "Spyware" communications
+Blocks outgoing Xiaomi Telemetry 
 
 add to PiHole blocklists by using URL below: 
 
