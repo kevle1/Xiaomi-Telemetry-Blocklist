@@ -1,5 +1,5 @@
 # Xiaomi Spyware BlockList
-Blocks outgoing Xiaomi Telemetry, may break some Xiaomi device functionality. Use at own precaution. 
+Blocks outgoing Xiaomi Telemetry, may break some Xiaomi device functionality. Use at own risk. 
 
 Add to PiHole blocklists by using URL: 
 
