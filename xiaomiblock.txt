@@ -20,9 +20,9 @@ api.account.xiaomi.com
 api.ad.xiaomi.com
 o2o.api.xiaomi.com
 resolver.msg.xiaomi.net
-wallpaper.pandora..xiaomi.com
-api.chat..xiaomi.net
-abtest.mistat..xiaomi.com
+wallpaper.pandora.xiaomi.com
+api.chat.xiaomi.net
+abtest.mistat.xiaomi.com
 sdkconfig.ad.xiaomi.com
 file.market.xiaomi.com
 market.intl.xiaomi.com
@@ -45,9 +45,9 @@ api.account.intl.xiaomi.com
 api.ad.intl.xiaomi.com
 o2o.api.intl.xiaomi.com
 resolver.msg.xiaomi.net
-wallpaper.pandora..intl.xiaomi.com
-api.chat..xiaomi.net
-abtest.mistat..intl.xiaomi.com
+wallpaper.pandora.intl.xiaomi.com
+api.chat.xiaomi.net
+abtest.mistat.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 file.market.intl.xiaomi.com
 tracking.intl.miui.com
